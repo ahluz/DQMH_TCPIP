@@ -5,4 +5,4 @@ DQMH Modules to communicate TCP/IP
 LabView 2020 SP1
 DQMH 6.0
 
-We are using DQMH to creat 2 modules using TCP/IP
+We are using DQMH to create 2 modules using TCP/IP
