@@ -19,6 +19,7 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Connect to TCP Server Argument--cluster.ctl" Type="VI" URL="../Connect to TCP Server Argument--cluster.ctl"/>
+				<Item Name="Message client controller Argument--cluster.ctl" Type="VI" URL="../Message client controller Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -32,6 +33,7 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Connect to TCP Server.vi" Type="VI" URL="../Connect to TCP Server.vi"/>
+			<Item Name="Message client controller.vi" Type="VI" URL="../Message client controller.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -98,10 +100,10 @@
 		</Item>
 		<Item Name="VI Reference Management.lvlib" Type="Library" URL="../VI Reference Management/VI Reference Management.lvlib"/>
 		<Item Name="Clone Registration.lvlib" Type="Library" URL="../Clone Registration/Clone Registration.lvlib"/>
+		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 		<Item Name="Test Clone Registration API.vi" Type="VI" URL="../Clone Registration/Test Clone Registration API.vi"/>
 		<Item Name="Get Module Running State.vi" Type="VI" URL="../Get Module Running State.vi"/>
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
-		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
